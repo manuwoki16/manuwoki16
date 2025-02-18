@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manucj17
 - 👀 I’m interested in Informatics, Programming, Electronics, Science...
-- 🌱 I’m currently learning  Linux, Raspberry Pi and ethical hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Facebook, VK.
+- 🌱 I’m currently learning  Cybersecurity, Data analytics.
+- 💞️ I’m looking to collaborate on Projects.
+- 📫 How to reach me Facebook (Manu Canestro), VK (Manuel Ca), Linkedin (Manuel Canestro).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
